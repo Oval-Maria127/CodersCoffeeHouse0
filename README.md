@@ -13,21 +13,23 @@ People who code, Web developers, app makers. Anyone who uses their computer to m
 Coding Languages 
 HTML &CSS
 
-Features 
-Navigation bar -
+Features; what i've added and why.
+ 
+Navigation bar - A navigation bar that will send the user to the 'Home' page, 'Drinks Menu', 'Contact' page 
 
-Footer -
+Footer - has a list of social media and a copyright logo
 
-Contact us page- 
+Contact us page- The contact page has a list of opening and closing times, the coffee shop address and phone number and email address.
 
-Map -
+Map - This is self explantory but it shows the location of the coffee shop. Also makes the site seem more reputable.
 
-Drinks Menu  -
+Drinks Menu  - A list of hot and cold drinks.
 
-A prize draw page -
-
-
-What I didn't have time for,
+A prize draw page - This enables the 'site owner' to see what their customers want to see on the site. It also helps to motivate customers to fill in the form for the chance of winning a years supply of co
 
 
-What I've added and why.
+What I didn't have time for;
+A snacks menu - As i was not sure where to put it or weather
+or not i should have made differnt page for it. If i had put a snack's menu with the drinks menu i would not be sure how to scale it 
+
+
